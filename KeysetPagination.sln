@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeysetPagination", "KeysetPagination\KeysetPagination.csproj", "{FA7C9CD8-ACD4-4FB7-8AEA-EF4C169120CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7C9CD8-ACD4-4FB7-8AEA-EF4C169120CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7C9CD8-ACD4-4FB7-8AEA-EF4C169120CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7C9CD8-ACD4-4FB7-8AEA-EF4C169120CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7C9CD8-ACD4-4FB7-8AEA-EF4C169120CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6F4EB9-C4A7-496F-882F-D8F75A54E4F0}
+	EndGlobalSection
+EndGlobal
